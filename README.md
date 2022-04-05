@@ -1,7 +1,7 @@
 # TO-DO-LIST_MongoDB-frontend-REMOTO
 
 <p align="center"> 
-  <img src="./public/images/Todo.png" width=80% heigth=auto>
+  <img src="./public/images/Todo.PNG" width=80% heigth=auto>
 </p>
 
 https://to-do-mongodb-frontend.herokuapp.com/
@@ -15,19 +15,19 @@ https://to-do-mongodb-frontend.herokuapp.com/
 # Puedes Marcar Como Realizado
 
 <p align="center"> 
-  <img src="./public/images/Todo2.png" width=80% heigth=auto>
+  <img src="./public/images/Todo2.PNG" width=80% heigth=auto>
 </p>
 
 # Puedes Borrar
 
 <p align="center"> 
-  <img src="./public/images/Todo3.png" width=80% heigth=auto>
+  <img src="./public/images/Todo3.PNG" width=80% heigth=auto>
 </p>
 
 # Puedes Editar
 
 <p align="center"> 
-  <img src="./public/images/Todo4.png" width=80% heigth=auto>
+  <img src="./public/images/Todo4.PNG" width=80% heigth=auto>
 </p>
 
 # Conexion a Base de Datos
@@ -35,7 +35,7 @@ https://to-do-mongodb-frontend.herokuapp.com/
 - https://github.com/JymmyMurillo/TO-DO-LIST_MongoDB-backend-
 
 <p align="center"> 
-  <img src="./public/images/Todo5.png" width=80% heigth=auto>
+  <img src="./public/images/Todo5.PNG" width=80% heigth=auto>
 </p>
 
 
