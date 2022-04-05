@@ -30,7 +30,7 @@ https://to-do-mongodb-frontend.herokuapp.com/
   <img src="./public/images/Todo4.PNG" width=80% heigth=auto>
 </p>
 
-# Conexion a Base de Datos
+# Conexion a Base de Datos en Backend
 
 - https://github.com/JymmyMurillo/TO-DO-LIST_MongoDB-backend-
 
