@@ -9,7 +9,7 @@ https://to-do-mongodb-frontend.herokuapp.com/
 # Puedes Crear
 
 <p align="center"> 
-  <img src="./public/images/Todo1.png" width=80% heigth=auto>
+  <img src="./public/images/Todo1.PNG" width=80% heigth=auto>
 </p>
 
 # Puedes Marcar Como Realizado
